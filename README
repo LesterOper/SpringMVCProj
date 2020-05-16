@@ -2,3 +2,11 @@ This web-app is developed on REST
 
 DB - MSSQL Server
 Script for DB is in folder: webapp/sql
+
+For add new product:
+JSON:
+{
+  "name": "some product",
+  "type": "type of product",
+  "cost": "cost of product, type of data: int"
+}
