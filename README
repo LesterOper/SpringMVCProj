@@ -1,0 +1,4 @@
+This web-app is developed on REST
+
+DB - MSSQL Server
+Script for DB is in folder: webapp/sql
